@@ -3,10 +3,8 @@ import {
   Activity,
   Binary,
   Check,
-  FileCode2,
   Hash,
   Upload,
-  Zap,
 } from "lucide-react";
 
 import "./App.css";
